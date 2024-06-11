@@ -1,0 +1,9 @@
+*{
+font-family: 'Poppins', sans-serif;
+}
+.banner{
+  background-image: url(/portfolio-image1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 0;
+}
